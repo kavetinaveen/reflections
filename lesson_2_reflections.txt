@@ -1,0 +1,3 @@
+What happens when you initialize a repository? Why do you need to do it?
+
+Suppose I am working on a project, If I want to use version control using Github then I need to initialise git at the cureent working location so that I can track the upcoming versions through it's log
